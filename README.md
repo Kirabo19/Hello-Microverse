@@ -1,42 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Audition App
+# Hello Microverse
 
-> Welcome to the Audition App is tool is used to select best music artists .
-
+> In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices i have learned about in previous steps. I will be using them in all Microverse projects and most likely in my future job as well.
 
 ## Built With
 
 - Major languages
 - HTML
 - CSS
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- npm
 
 ## Getting Started
-
-**You need to login to the app and select the music theme you are good at**
-**Press the record button and sing, after sound peeps stop recording, save the file and press send**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- VS Code
+- chrome
 
-### Setup
+## Setup
+git clone https://github.com/Kirabo19/Hello-Microverse.git
 
-### Install
+cd Hello-Microverse
 
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+code.
 
 ## Authors
 
@@ -56,4 +44,4 @@ To get a local copy up and running follow these simple example steps.
 
 ## 📝 License
 
-This Audition App is [MIT](./MIT.md) licensed.
+This project is [MIT](./MIT.md) licensed.
